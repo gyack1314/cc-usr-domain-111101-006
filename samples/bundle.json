@@ -1,0 +1,17 @@
+{
+  "name": "矿区空间片段的坐标归一与边界裁切",
+  "files": [
+    {
+      "path": "transforms.json",
+      "key": "id"
+    },
+    {
+      "path": "regions.json",
+      "key": "id"
+    },
+    {
+      "path": "paths.json",
+      "key": "id"
+    }
+  ]
+}
